@@ -1,0 +1,21 @@
+{
+  "name": "pdf-convert",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "domino": "^2.1.4",
+    "express": "*",
+    "html-pdf": "^2.2.0",
+    "html-to-pdfmake": "^1.2.2",
+    "pdfmake": "^0.1.65",
+    "vfs": "^0.2.2",
+    "window": "^4.2.7"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
