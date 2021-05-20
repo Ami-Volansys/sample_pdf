@@ -9,7 +9,7 @@
     "body-parser": "*",
     "domino": "^2.1.4",
     "express": "*",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "html-to-pdfmake": "^1.2.2",
     "pdfmake": "^0.1.65",
     "vfs": "^0.2.2",
